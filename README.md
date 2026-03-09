@@ -24,7 +24,8 @@
 
 ### Projects
 * __(in progress) Building an Invertebrate Specimens Database | Spring 2026__
-  As my final project in a computational biology course I took in the spring of 2026, I plan to build an invertebrate specimens database for the Cunha lab at Loyola University Chicago. This project aims to combine existing metadata for a wide variety of invertebrate samples into a SQL databse, and provide adequate documentation for this database so that it can be used by undergraduate students. Time permitting, we also hope to build a GUI for this database to make it easier to access, regardless of coding experience.
+
+  As my final project in a computational biology course, I plan to build an invertebrate specimens database for the Cunha lab at Loyola University Chicago. This project aims to combine existing metadata for a wide variety of invertebrate samples into a SQL databse, and provide adequate documentation for this database so that it can be used by undergraduate students. Time permitting, we also hope to build a GUI for this database to make it easier to access, regardless of coding experience.
 * __Transcriptomics Pipeline Project | Spring 2026__
 
   [Project Repo](https://github.com/fingerga/pipeline_project)
